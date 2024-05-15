@@ -66,7 +66,7 @@ The dataset describes the listing activity and metrics in NYC, NY for 2019. The 
 ├── Result
 └── Reference
 ```
-## Click [here](https://github.com/Kashifletslearn/EDA-of-Airbnb-Hotel-Booking/blob/main/EDA_of_Airbnb_Hotel_Booking.ipynb) to view the solution of Airbnb Bookings EDA Analysis!** 
+## Click [here](https://github.com/Kashifletslearn/EDA-of-Airbnb-Hotel-Booking/blob/main/EDA_of_Airbnb_Hotel_Booking.ipynb) to view the solution of Airbnb Bookings EDA Analysis
 
 
 
